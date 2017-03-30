@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_dps_pz3_kz">
+ <title>Welcome to your breakfast guide!</title>
+ <shortdesc>Here you will find a brief introduction and what to expect from this guide.</shortdesc>
+ <conbody>
+  <p>Welcome! This is your super helpful breakfast guide that will make sure you feel right at home in the kitchen. In this guide you will find:
+   <ul>
+   <li>Where to find items in the kitchen</li>
+    <li>Several recipes to make sure you are full and nourished for the day (or until lunch)!</li>
+    <li>Cleanup instructions</li>
+    <li>Troubleshooting tips</li>
+    <li></li>
+  </ul></p>
+ </conbody>
+</concept>
