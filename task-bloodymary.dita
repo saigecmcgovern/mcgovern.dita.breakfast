@@ -2,14 +2,78 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_qxv_3dj_kz">
     <title>How to make a bloody mary</title>
-    <shortdesc/>
+    <shortdesc>This task will explain what you need and what steps to take to make a bloody
+        mary.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>This is our family's secret recipe, so enjoy, but keep it safe!</p>
+            <p>You will need: <ul>
+                    <li>1 tablespoon celery salt</li>
+                    <li>¼ lemon, cut into two wedges</li>
+                    <li>½ tsp Worcestershire sauce</li>
+                    <li>¼ tsp soy sauce</li>
+                    <li>½ tsp freshly grounf black pepper</li>
+                    <li>dash cayenne pepper</li>
+                    <li>¼ tsp hot sauce</li>
+                    <li>½ tsp freshly grated horseradish</li>
+                    <li>2 ounces vodka</li>
+                    <li>4 ounces high-quality tomato juice</li>
+                    <li>1 stick celery</li>
+                    <li audience="mom">3 pieces cooked bacon</li>
+                    <li>1 dill pickle spear</li>
+                    <li>5 pitted green olives</li>
+                    <li audience="mom">5 pieces of beef jerky</li>
+                    <li audience="mom">5 1-in cubes of sharp cheddar cheese</li>
+                    <li audience="mom">2 long skewers</li>
+                <li audience="armando">1 long skewer</li>
+                </ul>
+            </p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Place the celery salt into a shallow plate or bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Rub the rim of a 12-ounce glass or tumbler with one of the lemon wedges.</cmd>
+            </step>
+            <step>
+                <cmd>Coat the wet rim with the celery salt.</cmd>
+            </step>
+            <step>
+                <cmd>Place the lemon on the rim of the glass as a garnish and fill the glass with
+                    ice.</cmd>
+            </step>
+            <step>
+                <cmd>Add the Worcesterchire, soy, and hot sauces, black and cayenne pepper, and
+                    horseradish to the bottom of a cocktail shaker.</cmd>
+            </step>
+            <step>
+                <cmd>Fill the shaker with ice, and add the vodka, tomato juice, and juice from the
+                    second lemon wedge.</cmd>
+            </step>
+            <step>
+                <cmd>Shake the cocktail shaker vigorously, and taste for seasoning. At this point,
+                    you can adjust spices and sauces and add more according to your own
+                    preference.</cmd>
+            </step>
+            <step>
+                <cmd>Strain the contents of the shaker into the ice-filled glass.</cmd>
+            </step>
+            <step>
+                <cmd>Place the 5 olives on one of the skewers.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>On the second skewer, alternate pices of beef jerky and cheese cubes.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Place the celery stick, the pieces of bacon, the pickle spear, the green olive
+                    skewer, and the beef and cheese skewer in the glass, and serve
+                    immediately.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Place the celery stick, the pickle spear, and the green olive
+                    skewer in the glass, and serve
+                    immediately.</cmd>
             </step>
         </steps>
     </taskbody>
