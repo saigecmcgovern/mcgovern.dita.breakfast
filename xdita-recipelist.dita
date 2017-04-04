@@ -5,10 +5,23 @@
   <shortdesc>Here you will find links to all the recipes shown in this guide, for further
     use.</shortdesc>
   <body>
+    <ul>
+      <li>
+        <p><xref href="http://www.seriouseats.com/recipes/2011/06/the-ultimate-fully-loaded-bloody-mary-recipe.html" format="html" scope="external">Bloody Mary</xref></p>
+      </li>
+      <li>
+        <p><xref href="http://natashaskitchen.com/2016/05/20/breakfast-sandwich/" format="html" scope="external">Breakfast Sandwich</xref></p>
+      </li>
+      <li>
+        <p><xref href="http://allrecipes.com/recipe/21014/good-old-fashioned-pancakes" format="html" scope="external">Pancakes</xref></p>
+      </li>
+      <li>
+        <p><xref href="http://www.food.com/recipe/very-basic-fruit-salad-290900#activity-feed" format="html" scope="external">Fruit Salad</xref></p>
+      </li>
+    </ul>
     <p>Here are all the recipe links!</p>
-    <p>http://www.seriouseats.com/recipes/2011/06/the-ultimate-fully-loaded-bloody-mary-recipe.html</p>
-    <p>http://natashaskitchen.com/2016/05/20/breakfast-sandwich/</p>
-    <p>http://allrecipes.com/recipe/21014/good-old-fashioned-pancakes/</p>
+    <p></p>
+    <p>/</p>
     <p>http://www.food.com/recipe/very-basic-fruit-salad-290900#activity-feed</p>
   </body>
 </topic>

@@ -6,6 +6,8 @@
         breakfast.</shortdesc>
     <taskbody>
         <context>
+            <image audience="mom" href="images/sandwich.jpg"/>
+            <image audience="armando" href="images/vegansandwich.jpg"/>
             <p>This recipe will provide you with tons of nutrients and power to start the day.</p>
 <p>You will need: <ul>
                     <li>1 english muffin, cut in half</li>
