@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ofw_tj4_lz">
+    <title>How to make pancakes</title>
+    <shortdesc>This task will explain what you need and what steps to take to make pancakes.</shortdesc>
+    <taskbody>
+        <context>
+            <p>This recipe will keep breakfast classic with some old-fashioned pancakes.</p>
+            <p>You will need:<ul>
+                <li>1 ½ cups all-purpose flour</li>
+                <li>3 ½ tsp baking powder</li>
+                <li>1 tsp salt</li>
+                    <li>1 tbsp white sugar</li>
+                    <li audience="mom">1 ¼ cups milk</li>
+                <li audience="armando">1 ¼ cups soymilk</li>
+                <li>1 egg</li>
+                <li>3 tbsp butter or margarine</li>
+            </ul></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In a large bowl, sift together flour, baking powder, salt and sugar.</cmd>
+            </step>
+            <step>
+                <cmd>Make a well in the center of the dry ingredients and pour in milk, egg, and
+                    melted butter. Mix this until smooth.</cmd>
+            </step>
+            <step>
+                <cmd>Heat an oiled griddle or pan over medium high heat. Pour ¼ cup of batter onto
+                    the griddle.</cmd>
+            </step>
+            <step>
+                <cmd>Brown the pancakes on both sides and serve hot.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

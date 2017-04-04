@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lsb_gm4_lz">
+    <title>How to make a fruit salad</title>
+    <shortdesc>This task will explain what you need and how to make an amazing fruit salad. </shortdesc>
+    <taskbody>
+        <context>
+            <p>This recipe is for a perfectly balanced and delicious fruit salad.</p>
+            <p>You will need: <ul>
+                <li></li>
+            </ul></p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="trouble_nh2_p1q_lz">
+  <title>HELP: What to do if the stove does not turn on</title>
+  <troublebody>
+    <condition>
+      <p>This information will be especially helpful if you are making a breafast sandwich or
+        pancakes, which require the use of the stove and frying pan. </p>
+      <p/>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <title>The burner will not turn on</title>
+        <p/>
+        <p>So you've hit the start button, or turned the knob from "off" to one of the settings from 1-9 (low-high), but nothing is happening. Relax, this stove is finicky.</p>
+      </cause>
+      <remedy>
+        <responsibleParty></responsibleParty>
+        <steps-unordered>
+          <step>
+            <cmd>Turn off all knobs and burners</cmd>
+          </step>
+          <step>
+            <cmd>Turn around three times while singing the chorus from Britney Spears' "Toxic"</cmd>
+          </step>
+          <step>
+            <cmd>With you left ring finger on your nose, use your right hand to turn the burner from
+              "off" to whichever heat setting you need to use</cmd>
+          </step>
+          <step>
+            <cmd>The stove should now be working</cmd>
+          </step>
+        </steps-unordered>
+      </remedy>
+    </troubleSolution>
+    <troubleSolution>
+      <cause>
+        <title>The stove does not appear to be on at all</title>
+        <p/>
+        <p>This is a situation in which none of the buttons a beeping when you press them, the
+          burners do not get hot when you turn them on, and the clock is not turned on on the top of
+          the stove.</p>
+      </cause>
+      <remedy>
+        <responsibleParty></responsibleParty>
+        <steps-unordered>
+          <step>
+            <cmd>Use all of your strength to pull the stove away from the wall</cmd>
+          </step>
+          <step>
+            <cmd>Keep trying because it's really heavy so I know you didn't get it the first
+              time</cmd>
+          </step>
+          <step>
+            <cmd>Plug in the stove to the outlet behind the stove</cmd>
+          </step>
+          <step>
+            <cmd>Retun the stove to its original position and turn it on</cmd>
+          </step>
+        </steps-unordered>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

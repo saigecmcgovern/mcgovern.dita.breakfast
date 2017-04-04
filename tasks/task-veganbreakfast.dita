@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_a42_tbq_lz">
+    <title>How to make peanut butter and fruit toast</title>
+    <shortdesc>This task will explain what you need for and how to make peanut butter and fruit
+        toast.</shortdesc>
+    <taskbody>
+        <context>
+            <p>This simple breakfast is substatial enough to fill you up, but won't drag you down but taking a million years to make in the morning. Plus, its totally vegan!</p>
+            <p>You will need:<ul>
+                <li>2 slices whole wheat bread</li>
+                    <li>2 tbsp peanut butter</li>
+                    <li>5 medium strawberries</li>
+            </ul></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Toast the bread for three to five minutes, or bake in the oven for 5 minutes at
+                    350 degrees.</cmd>
+            </step>
+            <step>
+                <cmd>Spread peanut butter evenly across slices of toast while they are still
+                    warm.</cmd>
+            </step>
+            <step>
+                <cmd>Wash strawberries and cut them width-wise into thin slices. Layer the slices
+                    across your toast. Enjoy! </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
