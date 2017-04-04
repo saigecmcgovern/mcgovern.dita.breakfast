@@ -21,8 +21,12 @@
             <step>
                 <cmd>In a large bowl, sift together flour, baking powder, salt and sugar.</cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Make a well in the center of the dry ingredients and pour in milk, egg, and
+                    melted butter. Mix this until smooth.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Make a well in the center of the dry ingredients and pour in soymilk, egg, and
                     melted butter. Mix this until smooth.</cmd>
             </step>
             <step>
