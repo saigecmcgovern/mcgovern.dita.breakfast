@@ -55,7 +55,7 @@
             </step>
         </steps>
         <postreq>
-            <p conref="concept-safetydisclaimer.dita#concept-safelydisclaimer/disc"/>
+            <p conref="concept-safetydisclaimer.dita#concept-safelydisclaimer/safe"/>
         </postreq>
     </taskbody>
 </task>

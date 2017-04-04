@@ -33,5 +33,8 @@
                 <cmd>Brown the pancakes on both sides and serve hot.</cmd>
             </step>
         </steps>
+        <postreq>
+            <p conref="concept-safetydisclaimer.dita#concept-safelydisclaimer/safe"/>
+        </postreq>
     </taskbody>
 </task>
