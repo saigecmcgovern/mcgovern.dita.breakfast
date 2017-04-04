@@ -9,10 +9,18 @@
  <keydef keys="bacon">
   <topicmeta>
    <keywords>
-    <keyword>Oscar Mayer Applewood Smoked Bacon</keyword>
+    <keyword>Oscar Mayer Applewood Smoked bacon</keyword>
    </keywords>
   </topicmeta>
   </keydef>
+ 
+ <keydef keys="eggs">
+  <topicmeta>
+   <keywords>
+    <keyword>large brown eggs</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
  
  <topicref href="intro-welcome.dita" navtitle="Welcome"/>
  <topicref href="concept-eatinghealthy.dita" navtitle="Eating Healthy and Happy"/>

@@ -12,20 +12,20 @@
                     <li>¼ lemon, cut into two wedges</li>
                     <li>½ tsp Worcestershire sauce</li>
                     <li>¼ tsp soy sauce</li>
-                    <li>½ tsp freshly grounf black pepper</li>
+                    <li>½ tsp freshly ground black pepper</li>
                     <li>dash cayenne pepper</li>
                     <li>¼ tsp hot sauce</li>
                     <li>½ tsp freshly grated horseradish</li>
                     <li>2 ounces vodka</li>
                     <li>4 ounces high-quality tomato juice</li>
                     <li>1 stick celery</li>
-                    <li audience="mom">3 pieces cooked bacon</li>
+                    <li audience="mom">3 pieces cooked <keyword keyref="bacon"/></li>
                     <li>1 dill pickle spear</li>
                     <li>5 pitted green olives</li>
                     <li audience="mom">5 pieces of beef jerky</li>
                     <li audience="mom">5 1-in cubes of sharp cheddar cheese</li>
                     <li audience="mom">2 long skewers</li>
-                <li audience="armando">1 long skewer</li>
+                    <li audience="armando">1 long skewer</li>
                 </ul>
             </p>
         </context>
