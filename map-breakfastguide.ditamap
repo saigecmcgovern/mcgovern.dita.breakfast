@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Breafast Guide</title>
+ <topicref href="intro-welcome.dita"/>
+ <topicref href="concept-eatinghealthy.dita"/>
+ <topicref href="markdown-wheretofind.md" format="markdown">
+ <topicmeta>
+  <shortdesc>Here you will find information about where food and cooking utensils are located in the kitchen.</shortdesc>
+ </topicmeta>
+ </topicref>
+ <topichead navtitle="Drinks">
+  <topicref href="task-bloodymary.dita" navtitle="Bloody Mary"/>
+ </topichead>
+ <topichead navtitle="Main Courses">
+  <topicref href="task-breakfastsandwich.dita" navtitle="Breakfast Sandwich"/>
+  <topicref href="task-pancakes.dita" navtitle="Old-Fashioned Pancakes"/>
+ </topichead>
+ <topichead navtitle="Sides">
+  <topicref href="task-fruitsalad.dita" navtitle="Fruit Salad"></topicref>
+ </topichead>
+</map>
