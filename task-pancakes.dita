@@ -5,6 +5,7 @@
     <shortdesc>This task will explain what you need and what steps to take to make pancakes.</shortdesc>
     <taskbody>
         <context>
+            <image href="images/pancakes.jpg"/>
             <p>This recipe will keep breakfast classic with some old-fashioned pancakes.</p>
             <p>You will need:<ul>
                 <li>1 ½ cups all-purpose flour</li>

@@ -5,6 +5,7 @@
     <shortdesc>This task will explain what you need and how to make an amazing fruit salad. </shortdesc>
     <taskbody>
         <context>
+            <image href="images/fruitsalad.jpg"/>
             <p>This recipe is for a perfectly balanced and delicious fruit salad.</p>
             <p>You will need: <ul>
                 <li>2 cups fresh strawberries</li>
