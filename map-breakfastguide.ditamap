@@ -2,6 +2,18 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Breakfast Guide</title>
+ <topicmeta>
+  <author>Kevin Lewis</author>
+ </topicmeta>
+ 
+ <keydef keys="bacon">
+  <topicmeta>
+   <keywords>
+    <keyword>Oscar Mayer Applewood Smoked Bacon</keyword>
+   </keywords>
+  </topicmeta>
+  </keydef>
+ 
  <topicref href="intro-welcome.dita" navtitle="Welcome"/>
  <topicref href="concept-eatinghealthy.dita" navtitle="Eating Healthy and Happy"/>
  <topicref href="markdown-wheretofind.md" format="markdown" navtitle="Where to Find Items">
