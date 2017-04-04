@@ -1,4 +1,7 @@
 #Cleaning up
+
+I know I'm super fun and nice for letting you cook here and hooking you up with all the ingredients and stuff, but please clean up when you're done! It would make me very happy and would really show your gratitude :)
+
 ##What to do with the food
 All leftover food scraps, egg shells, fruit peels, etc. can be tossed directly into the garbage. Anything that is not trash-worthy can be wrapped in plastic wrap or a plastic baggie (both can be found in the drawer under the microwave) or placed in a tupperware container (located under the sink with the cooking utensils. They can all be placed in the refrigerator.
 ##What to do with the dishes
