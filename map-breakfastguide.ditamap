@@ -20,6 +20,7 @@
   <topicref href="task-fruitsalad.dita" navtitle="Fruit Salad"/>
  </topichead>
  <topichead navtitle="Cleanup and Further Resources">
+  <topicref href="troubleshooting-stovebroken.dita" navtitle="HELP: Stove is Broken"/>
   <topicref href="markdown-cleaning.md" navtitle="Cleaning Up"/>
   <topicref href="xdita-recipelist.dita" navtitle="Recipe Links"/>
   <topicref href="xdita-thankyou.dita" navtitle="Thank You"/>
