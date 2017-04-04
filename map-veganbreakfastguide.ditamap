@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+
+<map>
+ <title>Breakfast Guide</title>
+ <topicmeta>
+  <author>Saige McGovern</author>
+ </topicmeta>
+ 
+ <keydef keys="eggs">
+  <topicmeta>
+   <keywords>
+    <keyword>large brown eggs</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ 
+ <keydef keys="egg">
+  <topicmeta>
+   <keywords>
+    <keyword>large brown egg</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ 
+ <topicref href="intro-welcome.dita" navtitle="Welcome"/>
+ <topicref href="concept-eatinghealthyvegan.dita" navtitle="Eating Healthy and Happy"/>
+ <topicref href="markdown-wheretofind.md" format="markdown" navtitle="Where to Find Items">
+  <topicmeta>
+   <shortdesc>Here you will find information about where food and cooking utensils are located in the kitchen.</shortdesc>
+  </topicmeta>
+ </topicref>
+ <topichead navtitle="Drinks">
+  <topicmeta>
+   <shortdesc>The recipes for all of the drinks are located here.</shortdesc>
+  </topicmeta>
+  <topicref href="task-bloodymary.dita" navtitle="Bloody Mary"/>
+ </topichead>
+ <topichead navtitle="Main Courses">
+  <topicmeta>
+   <shortdesc>The recipes for all of the main courses are located here.</shortdesc>
+  </topicmeta>
+  <topicref href="task-breakfastsandwich.dita" navtitle="Breakfast Sandwich"/>
+  <topicref href="task-pancakes.dita" navtitle="Old-Fashioned Pancakes"/>
+ </topichead>
+ <topichead navtitle="Sides">
+  <topicmeta>
+   <shortdesc>The recipes for all of the sides are located here.</shortdesc>
+  </topicmeta>
+  <topicref href="task-fruitsalad.dita" navtitle="Fruit Salad"/>
+  <topicref href="task-veganbreakfast.dita" navtitle="Vegan Peanut Butter and Fruit Toast"/>
+ </topichead>
+ <topichead navtitle="Cleanup and Further Resources">
+  <topicmeta>
+   <shortdesc>Any information on cleanup procedures, troubleshooting issues, as well as the recipe links can be found here.</shortdesc>
+  </topicmeta>
+  <topicref href="troubleshooting-stovebroken.dita" navtitle="HELP: Stove is Broken"/>
+  <topicref href="markdown-clean.md" navtitle="Cleaning Up"/>
+  <topicref href="xdita-veganrecipelist.dita" navtitle="Recipe Links"/>
+  <topicref href="xdita-thankyou.dita" navtitle="Thank You"/>
+ </topichead>
+</map>
+

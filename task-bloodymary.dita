@@ -6,8 +6,7 @@
         mary.</shortdesc>
     <taskbody>
         <context>
-            <image audience="mom" href="images/bloodymary.jpg"/>
-            <image audience="armando" href="images/veganbloodymary.jpg"/>
+            <image href="images/veganbloodymary.jpg"/>
             <p>This is our family's secret recipe, so enjoy, but keep it safe!</p>
             <p>You will need: <ul>
                     <li>1 tablespoon celery salt</li>
