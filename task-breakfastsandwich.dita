@@ -9,7 +9,7 @@
             <p>This recipe will provide you with tons of nutrients and power to start the day.</p>
 <p>You will need: <ul>
                     <li>1 english muffin, cut in half</li>
-                    <li>2 eggs</li>
+                    <li>2 <keyword keyref="eggs"/></li>
                     <li audience="mom">2-4 slices of ham</li>
                     <li audience="armando">1 thick slice beefsteak tomato</li>
                     <li audience="mom">2 slices of cheese (your preference)</li>
@@ -33,22 +33,23 @@
             <step>
                 <cmd audience="mom">Once the eggs are almost cooked through, sprinkle them with salt, pepper, chives, and top with the first slice of cheese.</cmd>
             </step>
-           <step>
-            <cmd audience="armando">Once the eggs are almost cooked through, sprinkle them with salt, pepper,  and chives.</cmd>
+            <step audience="armando">
+            <cmd>Once the eggs are almost cooked through, sprinkle them with salt, pepper,  and chives.</cmd>
            </step>
-            <step>
-                <cmd audience="mom">Place toasted english muffins cut-side-down over the eggs and press the tops
+            <step audience="mom">
+                <cmd>Place toasted english muffins cut-side-down over the eggs and press the tops
                     with a spatula. The cheese will allow the muffin to stick to the egg.</cmd>
             </step>
-            <step>
-                <cmd audience="armando">Place toasted english muffins cut-side-down over the eggs and press the tops
+            <step audience="armando">
+                <cmd>Place toasted english muffins cut-side-down over the eggs and press the tops
                     with a spatula.</cmd>
             </step>
-            <step>
-                <cmd audience="mom">Flip the sandwich over so it is egg-side-up and place the ham slices and second
+            <step audience="mom">
+                <cmd>Flip the sandwich over so it is egg-side-up and place the ham slices and second
                     slice of cheese on top. </cmd>
-            </step> <step>
-                <cmd audience="armando">Flip the sandwich over so it is egg-side-up and place the tomato slice on top. </cmd>
+            </step> 
+            <step audience="armando">
+                <cmd>Flip the sandwich over so it is egg-side-up and place the tomato slice on top. </cmd>
             </step>
             <step>
                 <cmd>Top the sandwich with the other half of the english muffin, and enjoy!</cmd>
