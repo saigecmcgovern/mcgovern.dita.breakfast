@@ -1,0 +1,12 @@
+fil = new Array();
+fil["0"]= "concept-eatinghealthy.html@@@Eating Healthy and Happy@@@This section will explain what constitutes a good breakfast, from both a nutritional and mental health standpoint...";
+fil["1"]= "concept-safetydisclaimer.html@@@Safety Disclaimer@@@Remember, when using the stove, oven toaster, or other heated or electrical appliance, safety is the top priority. Always be careful, and remember to use oven mitts or other heat protection. Oven...";
+fil["2"]= "intro-welcome.html@@@Welcome to your breakfast guide!@@@Here you will find a brief introduction and what to expect from this guide...";
+fil["3"]= "markdown-wheretofind.html@@@Where to find the food@@@When making any of these recipes, please note that all items are fully stocked and available in the kitchen. Here you will find the location of all of these items. All dairy producs can be found on...";
+fil["4"]= "task-bloodymary.html@@@How to make a bloody mary@@@This task will explain what you need and what steps to take to make a bloody mary...";
+fil["5"]= "task-breakfastsandwich.html@@@How to make a breakfast sandwich@@@Here you will learn to make a delicious breakfast sandwich as the main course of your breakfast...";
+fil["6"]= "task-fruitsalad.html@@@How to make a fruit salad@@@This task will explain what you need and how to make an amazing fruit salad...";
+fil["7"]= "task-pancakes.html@@@How to make pancakes@@@This task will explain what you need and what steps to take to make pancakes...";
+fil["8"]= "troubleshooting-stovebroken.html@@@HELP: What to do if the stove does not turn on@@@This information will be especially helpful if you are making a breafast sandwich or pancakes, which require the use of the stove and frying pan. The burner will not turn on So you&apos;ve hit the start...";
+fil["9"]= "xdita-recipelist.html@@@Recipe References@@@Here you will find links to all the recipes shown in this guide, for further use...";
+fil["10"]= "xdita-thankyou.html@@@Thank you@@@This is a nice message thanking you for using this guide...";

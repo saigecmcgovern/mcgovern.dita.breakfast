@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="welcome" path="intro-welcome.html"/>
+   <appContext helpID="concept_b2n_j2p_lz" path="concept-eatinghealthy.html"/>
+   <appContext helpID="where_to_find_the_food" path="markdown-wheretofind.html"/>
+   <appContext helpID="task_qxv_3dj_kz" path="task-bloodymary.html"/>
+   <appContext helpID="task_kky_dcj_kz" path="task-breakfastsandwich.html"/>
+   <appContext helpID="task_ofw_tj4_lz" path="task-pancakes.html"/>
+   <appContext helpID="task_lsb_gm4_lz" path="task-fruitsalad.html"/>
+   <appContext helpID="trouble_nh2_p1q_lz" path="troubleshooting-stovebroken.html"/>
+   <appContext helpID="" path="markdown-clean.html"/>
+   <appContext helpID="topic_jbd_gkt_lz" path="xdita-recipelist.html"/>
+   <appContext helpID="topic_s2y_q3t_lz" path="xdita-thankyou.html"/>
+</map>
