@@ -24,7 +24,7 @@
  </keydef>
  
  <topicref href="intro-welcome.dita" navtitle="Welcome"/>
- <topicref href="markdown-eatinghappyandhealthyvegan.md" navtitle="Eating Healthy and Happy"/>
+ <topicref href="markdown-eatinghappyandhealthyvegan.md" format="markdown" navtitle="Eating Healthy and Happy"/>
  <topicref href="markdown-wheretofind.md" format="markdown" navtitle="Where to Find Items">
   <topicmeta>
    <shortdesc>Here you will find information about where food and cooking utensils are located in the kitchen.</shortdesc>

@@ -61,7 +61,7 @@
    <shortdesc>Any information on cleanup procedures, troubleshooting issues, as well as the recipe links can be found here.</shortdesc>
   </topicmeta>
   <topicref href="troubleshooting-stovebroken.dita" navtitle="HELP: Stove is Broken"/>
-  <topicref href="markdown-clean.md" navtitle="Cleaning Up"/>
+  <topicref href="xdita-cleaning.dita" navtitle="Cleaning Up"/>
   <topicref href="xdita-recipelist.dita" navtitle="Recipe Links"/>
   <topicref href="xdita-thankyou.dita" navtitle="Thank You"/>
  </topichead>
