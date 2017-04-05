@@ -31,8 +31,8 @@
                 <cmd>Crack 2 eggs side by side on the other half of the pan and break the yolks with
                     a spatula.</cmd>
             </step>
-            <step>
-                <cmd audience="mom">Once the eggs are almost cooked through, sprinkle them with salt, pepper, chives, and top with the first slice of cheese.</cmd>
+            <step audience="mom">
+                <cmd>Once the eggs are almost cooked through, sprinkle them with salt, pepper, chives, and top with the first slice of cheese.</cmd>
             </step>
             <step audience="armando">
             <cmd>Once the eggs are almost cooked through, sprinkle them with salt, pepper,  and chives.</cmd>
