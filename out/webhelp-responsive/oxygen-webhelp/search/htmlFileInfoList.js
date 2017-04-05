@@ -1,0 +1,14 @@
+fil = new Array();
+fil["0"]= "concept-safetydisclaimer.html@@@Safety Disclaimer@@@Remember, when using the stove, oven toaster, or other heated or electrical appliance, safety is the top priority. Always be careful, and remember to use oven mitts or other heat protection. Oven...";
+fil["1"]= "intro-welcome.html@@@Welcome to your breakfast guide!@@@Here you will find a brief introduction and what to expect from this guide...";
+fil["2"]= "markdown-eatinghappyandhealthyvegan.html@@@Eating Healthy and Happy@@@In this breakfast guide, I have chosen foods that all work together to provide you with a great start to the day. Eggs provde high quality protein as well as a variety of vitamins and minerals, and...";
+fil["3"]= "markdown-wheretofind.html@@@Where to find the food@@@When making any of these recipes, please note that all items are fully stocked and available in the kitchen. Here you will find the location of all of these items. All dairy producs can be found on...";
+fil["4"]= "task-bloodymary.html@@@How to make a bloody mary@@@This task will explain what you need and what steps to take to make a bloody mary...";
+fil["5"]= "task-breakfastsandwich.html@@@How to make a breakfast sandwich@@@Here you will learn to make a delicious breakfast sandwich as the main course of your breakfast...";
+fil["6"]= "task-fruitsalad.html@@@How to make a fruit salad@@@This task will explain what you need and how to make an amazing fruit salad...";
+fil["7"]= "task-pancakes.html@@@How to make pancakes@@@This task will explain what you need and what steps to take to make pancakes...";
+fil["8"]= "task-veganbreakfast.html@@@How to make peanut butter and fruit toast@@@This task will explain what you need for and how to make peanut butter and fruit toast...";
+fil["9"]= "troubleshooting-stovebroken.html@@@HELP: What to do if the stove does not turn on@@@This information will be especially helpful if you are making a breafast sandwich or pancakes, which require the use of the stove and frying pan. The burner will not turn on So you&apos;ve hit the start...";
+fil["10"]= "xdita-cleaning.html@@@Cleaning up@@@Here is some information on how to clean up once your&apos;re done cooking...";
+fil["11"]= "xdita-thankyou.html@@@Thank you@@@This is a nice message thanking you for using this guide...";
+fil["12"]= "xdita-veganrecipelist.html@@@Recipe References@@@Here you will find links to all the recipes shown in this guide, for further use...";
